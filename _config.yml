@@ -14,10 +14,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Matt Maisel
-email: 
+author: Matt Maisel
+email:
 description: >- # this means to ignore newlines until "baseurl:"
+  Writing on the intersection of data science, software engineering, and computer security
+
+
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://mmaisel.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: happymattvalley
 github_username:  mmaisel
 
@@ -26,6 +30,7 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -37,4 +42,4 @@ plugins:
 #   - vendor/bundle/
 #   - vendor/cache/
 #   - vendor/gems/
-#   - vendor/ruby/
+#   - vendor/ruby
