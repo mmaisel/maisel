@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am an engineer and researcher with expertise in machine learning, software engineering, and computer security. I currently work at Obsidian Security as a Security Data Scientist. My research interests include malware classification, nearest neighbor search, clustering, similarity digest algorithms, and machine learning systems. 
+I am an engineer and researcher with expertise in machine learning, software engineering, and computer security. I work at Obsidian Security as a Security Data Scientist. My research interests include malware classification, nearest neighbor search, clustering, similarity digest algorithms, and machine learning systems. 
 
 I had the privilege and honor to work at Cylance, an endpoint security startup company, from 2013 to 2019. It was acquired by Blackberry in February 2019. Throughout this journey, my roles included manager of security data science, senior data scientist, software architect, technical director, security researcher, and consultant. Between 2011 and 2013, I worked in software engineering and incident response positions in the healthcare and defense consulting industries. I completed a M.S. in Computer Science (2017) from Johns Hopkins University with a focus on machine learning and distributed systems. My undergraduate degrees are from Penn State University in Information Sciences & Technology and Security & Risk Analysis (2011).
 
